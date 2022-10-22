@@ -41,4 +41,16 @@ If you want to restart game with different settings, you can press 'Stop' (Зу�
 
 NB: If you press 'Stop', your progress will be lost.
 
+## Sreen modes
+
+You can play the game in the full mode.
+
+Press 'Full screen button' to enter it.
+![image](https://user-images.githubusercontent.com/83924241/197343089-0a7e7da0-d1b1-4bed-8d34-650bdc224bd1.png)
+
+Press 'Esc' button on the keyboard to exit full screen mode.
+
+
+
+
 That's all! Have fun.
