@@ -1,7 +1,7 @@
 # Map of the Ukraine
 
 - [English](https://github.com/GearOfRage/ukraine-map#english)
-- [Українською](https://github.com/GearOfRage/ukranian)
+- [Українською](https://github.com/GearOfRage/ukraine-map#ukranian)
 
 ## English
 
